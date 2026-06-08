@@ -1,0 +1,13 @@
+{
+  "": {
+    "dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/ArgumentParserToolInfo-tool.build/ArgumentParserToolInfo.d",
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/ArgumentParserToolInfo-tool.build/ArgumentParserToolInfo.o",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/ArgumentParserToolInfo-tool.build/primary.swiftdeps"
+  },
+  "/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-argument-parser/Sources/ArgumentParserToolInfo/ToolInfo.swift": {
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/ArgumentParserToolInfo-tool.build/ToolInfo.swift.o",
+    "swiftmodule": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/ArgumentParserToolInfo-tool.build/ToolInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/ArgumentParserToolInfo-tool.build/ToolInfo.swiftdeps",
+    "diagnostics": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/ArgumentParserToolInfo-tool.build/ToolInfo.dia"
+  }
+}

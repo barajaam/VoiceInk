@@ -1,0 +1,4 @@
+module yyjson {
+    umbrella header "/Users/barajaam/Desktop/VoiceInk/.build/checkouts/yyjson/src/yyjson.h"
+    export *
+}

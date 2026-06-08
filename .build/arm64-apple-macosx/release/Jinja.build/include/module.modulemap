@@ -1,0 +1,3 @@
+module Jinja {
+    header "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/Jinja.build/include/Jinja-Swift.h"
+}

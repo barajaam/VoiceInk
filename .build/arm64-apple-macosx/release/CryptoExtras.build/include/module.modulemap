@@ -1,0 +1,3 @@
+module CryptoExtras {
+    header "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/CryptoExtras.build/include/CryptoExtras-Swift.h"
+}

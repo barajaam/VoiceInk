@@ -1,0 +1,25 @@
+{
+  "": {
+    "dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/Models.build/Models.d",
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/Models.build/Models.o",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/Models.build/primary.swiftdeps"
+  },
+  "/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-transformers/Sources/Models/LanguageModel.swift": {
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/Models.build/LanguageModel.swift.o",
+    "swiftmodule": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/Models.build/LanguageModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/Models.build/LanguageModel.swiftdeps",
+    "diagnostics": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/Models.build/LanguageModel.dia"
+  },
+  "/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-transformers/Sources/Models/LanguageModelTypes.swift": {
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/Models.build/LanguageModelTypes.swift.o",
+    "swiftmodule": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/Models.build/LanguageModelTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/Models.build/LanguageModelTypes.swiftdeps",
+    "diagnostics": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/Models.build/LanguageModelTypes.dia"
+  },
+  "/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-transformers/Sources/Models/Weights.swift": {
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/Models.build/Weights.swift.o",
+    "swiftmodule": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/Models.build/Weights~partial.swiftmodule",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/Models.build/Weights.swiftdeps",
+    "diagnostics": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/Models.build/Weights.dia"
+  }
+}

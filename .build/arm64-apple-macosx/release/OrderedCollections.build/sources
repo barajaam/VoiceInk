@@ -1,0 +1,61 @@
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+Bucket.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+BucketIterator.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+Constants.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+CustomStringConvertible.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+Testing.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+UnsafeHandle.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_Hashtable+Header.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Codable.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+CustomReflectable.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Deprecations.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Descriptions.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Elements.SubSequence.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Elements.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Equatable.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+ExpressibleByDictionaryLiteral.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Hashable.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Initializers.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Invariants.swift
+'/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Partial MutableCollection.swift'
+'/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Partial RangeReplaceableCollection.swift'
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Sendable.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Sequence.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Values.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Codable.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+CustomReflectable.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Descriptions.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Diffing.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Equatable.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+ExpressibleByArrayLiteral.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Hashable.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Initializers.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Insertions.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Invariants.swift
+'/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial MutableCollection.swift'
+'/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial RangeReplaceableCollection.swift'
+'/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra formIntersection.swift'
+'/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra formSymmetricDifference.swift'
+'/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra formUnion.swift'
+'/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra intersection.swift'
+'/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isDisjoint.swift'
+'/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isEqualSet.swift'
+'/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isStrictSubset.swift'
+'/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isStrictSuperset.swift'
+'/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isSubset.swift'
+'/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isSuperset.swift'
+'/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra subtract.swift'
+'/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra subtracting.swift'
+'/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra symmetricDifference.swift'
+'/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra union.swift'
+'/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra+Basics.swift'
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+RandomAccessCollection.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+ReserveCapacity.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Sendable.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+SubSequence.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Testing.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+UnorderedView.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+UnstableInternals.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet.swift
+/Users/barajaam/Desktop/VoiceInk/.build/checkouts/swift-collections/Sources/OrderedCollections/Utilities/_UnsafeBitset.swift

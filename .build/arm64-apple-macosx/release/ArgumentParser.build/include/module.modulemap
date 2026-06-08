@@ -1,0 +1,3 @@
+module ArgumentParser {
+    header "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/ArgumentParser.build/include/ArgumentParser-Swift.h"
+}

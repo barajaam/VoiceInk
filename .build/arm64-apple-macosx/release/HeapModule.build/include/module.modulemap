@@ -1,0 +1,3 @@
+module HeapModule {
+    header "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/HeapModule.build/include/HeapModule-Swift.h"
+}

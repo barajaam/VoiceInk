@@ -1,0 +1,67 @@
+{
+  "": {
+    "dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/VoiceInk.d",
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/VoiceInk.o",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/primary.swiftdeps"
+  },
+  "/Users/barajaam/Desktop/VoiceInk/VoiceInk/Models/TranscriptionEngine.swift": {
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/TranscriptionEngine.swift.o",
+    "swiftmodule": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/TranscriptionEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/TranscriptionEngine.swiftdeps",
+    "diagnostics": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/TranscriptionEngine.dia"
+  },
+  "/Users/barajaam/Desktop/VoiceInk/VoiceInk/Services/AppleSpeechEngine.swift": {
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/AppleSpeechEngine.swift.o",
+    "swiftmodule": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/AppleSpeechEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/AppleSpeechEngine.swiftdeps",
+    "diagnostics": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/AppleSpeechEngine.dia"
+  },
+  "/Users/barajaam/Desktop/VoiceInk/VoiceInk/Services/AudioRecorder.swift": {
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/AudioRecorder.swift.o",
+    "swiftmodule": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/AudioRecorder~partial.swiftmodule",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/AudioRecorder.swiftdeps",
+    "diagnostics": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/AudioRecorder.dia"
+  },
+  "/Users/barajaam/Desktop/VoiceInk/VoiceInk/Services/HotkeyManager.swift": {
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/HotkeyManager.swift.o",
+    "swiftmodule": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/HotkeyManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/HotkeyManager.swiftdeps",
+    "diagnostics": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/HotkeyManager.dia"
+  },
+  "/Users/barajaam/Desktop/VoiceInk/VoiceInk/Services/TextPaster.swift": {
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/TextPaster.swift.o",
+    "swiftmodule": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/TextPaster~partial.swiftmodule",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/TextPaster.swiftdeps",
+    "diagnostics": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/TextPaster.dia"
+  },
+  "/Users/barajaam/Desktop/VoiceInk/VoiceInk/Services/TranscriptionManager.swift": {
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/TranscriptionManager.swift.o",
+    "swiftmodule": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/TranscriptionManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/TranscriptionManager.swiftdeps",
+    "diagnostics": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/TranscriptionManager.dia"
+  },
+  "/Users/barajaam/Desktop/VoiceInk/VoiceInk/Services/WhisperEngine.swift": {
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/WhisperEngine.swift.o",
+    "swiftmodule": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/WhisperEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/WhisperEngine.swiftdeps",
+    "diagnostics": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/WhisperEngine.dia"
+  },
+  "/Users/barajaam/Desktop/VoiceInk/VoiceInk/Views/MenuBarView.swift": {
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/MenuBarView.swift.o",
+    "swiftmodule": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/MenuBarView~partial.swiftmodule",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/MenuBarView.swiftdeps",
+    "diagnostics": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/MenuBarView.dia"
+  },
+  "/Users/barajaam/Desktop/VoiceInk/VoiceInk/Views/SettingsView.swift": {
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/SettingsView.swift.o",
+    "swiftmodule": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/SettingsView.swiftdeps",
+    "diagnostics": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/SettingsView.dia"
+  },
+  "/Users/barajaam/Desktop/VoiceInk/VoiceInk/VoiceInkApp.swift": {
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/VoiceInkApp.swift.o",
+    "swiftmodule": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/VoiceInkApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/VoiceInkApp.swiftdeps",
+    "diagnostics": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/VoiceInk.build/VoiceInkApp.dia"
+  }
+}

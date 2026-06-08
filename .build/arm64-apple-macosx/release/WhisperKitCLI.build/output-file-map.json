@@ -1,0 +1,49 @@
+{
+  "": {
+    "dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/WhisperKitCLI.d",
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/WhisperKitCLI.o",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/primary.swiftdeps"
+  },
+  "/Users/barajaam/Desktop/VoiceInk/.build/checkouts/WhisperKit/Sources/WhisperKitCLI/CLIUtils.swift": {
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/CLIUtils.swift.o",
+    "swiftmodule": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/CLIUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/CLIUtils.swiftdeps",
+    "diagnostics": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/CLIUtils.dia"
+  },
+  "/Users/barajaam/Desktop/VoiceInk/.build/checkouts/WhisperKit/Sources/WhisperKitCLI/DiarizeCLI.swift": {
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/DiarizeCLI.swift.o",
+    "swiftmodule": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/DiarizeCLI~partial.swiftmodule",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/DiarizeCLI.swiftdeps",
+    "diagnostics": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/DiarizeCLI.dia"
+  },
+  "/Users/barajaam/Desktop/VoiceInk/.build/checkouts/WhisperKit/Sources/WhisperKitCLI/TTSCLI.swift": {
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/TTSCLI.swift.o",
+    "swiftmodule": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/TTSCLI~partial.swiftmodule",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/TTSCLI.swiftdeps",
+    "diagnostics": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/TTSCLI.dia"
+  },
+  "/Users/barajaam/Desktop/VoiceInk/.build/checkouts/WhisperKit/Sources/WhisperKitCLI/TranscribeCLI.swift": {
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/TranscribeCLI.swift.o",
+    "swiftmodule": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/TranscribeCLI~partial.swiftmodule",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/TranscribeCLI.swiftdeps",
+    "diagnostics": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/TranscribeCLI.dia"
+  },
+  "/Users/barajaam/Desktop/VoiceInk/.build/checkouts/WhisperKit/Sources/WhisperKitCLI/TranscribeCLIArguments.swift": {
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/TranscribeCLIArguments.swift.o",
+    "swiftmodule": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/TranscribeCLIArguments~partial.swiftmodule",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/TranscribeCLIArguments.swiftdeps",
+    "diagnostics": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/TranscribeCLIArguments.dia"
+  },
+  "/Users/barajaam/Desktop/VoiceInk/.build/checkouts/WhisperKit/Sources/WhisperKitCLI/TranscribeCLIUtils.swift": {
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/TranscribeCLIUtils.swift.o",
+    "swiftmodule": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/TranscribeCLIUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/TranscribeCLIUtils.swiftdeps",
+    "diagnostics": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/TranscribeCLIUtils.dia"
+  },
+  "/Users/barajaam/Desktop/VoiceInk/.build/checkouts/WhisperKit/Sources/WhisperKitCLI/WhisperKitCLI.swift": {
+    "object": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/WhisperKitCLI.swift.o",
+    "swiftmodule": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/WhisperKitCLI~partial.swiftmodule",
+    "swift-dependencies": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/WhisperKitCLI.swiftdeps",
+    "diagnostics": "/Users/barajaam/Desktop/VoiceInk/.build/arm64-apple-macosx/release/WhisperKitCLI.build/WhisperKitCLI.dia"
+  }
+}
